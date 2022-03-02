@@ -1,0 +1,18 @@
+.Navbar {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    font-size: x-large;
+}
+
+.Card{
+    font: bold;
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.seal{
+    font-weight: bold;
+    font-style: initial;
+}
+.footer{
+    display: grid;
+}
