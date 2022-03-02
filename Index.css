@@ -16,3 +16,9 @@
 .footer{
     display: grid;
 }
+
+.my-style:hover{
+    background-color: rgb(255, 243, 75);
+    border: 1px solid black;
+    box-shadow: 3px 2px 4px; 
+}
